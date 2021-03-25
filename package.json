@@ -1,0 +1,28 @@
+{
+  "name": "Node-Projects",
+  "version": "1.0.0",
+  "description": "1. How do you install express globally?\r 2. What is the name of the Express manifest file?\r 3. T/F Routes need to be “required” just like any module\r 4. How would you include the “http” module in your app.js file?\r 5. How would you run an app with the file app.js?\r 6. What HTTP response code means everything is running as it should?\r 7. Which function can you use to write the http response code?\r 8. Node is the #1 backend language, why do developers prefer Node?\r 9. PostMan can be beneficial for server-side scripting, why?\r 10. T/F  Node's package manager in NPM?",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApVen77/Node-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApVen77/Node-Projects/issues"
+  },
+  "homepage": "https://github.com/ApVen77/Node-Projects#readme"
+}
